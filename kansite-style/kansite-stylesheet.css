@@ -1,3 +1,7 @@
 body {
-    background-color: darkgrey;
+    background-color: rgb(4, 190, 190);
+}
+
+p {
+    color:gray;
 }
